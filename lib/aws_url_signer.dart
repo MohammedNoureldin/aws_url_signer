@@ -1,6 +1,8 @@
-import 'package:intl/intl.dart';
+library aws_url_signer;
+
 import 'dart:convert';
 import 'package:crypto/crypto.dart';
+import 'package:intl/intl.dart';
 
 String _buildQueryString(
     {String accessKey,
