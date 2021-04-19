@@ -5,7 +5,11 @@ I created this work mainly because *Amazon Amplify* does not provide any easy me
 
 Now, after I got this working, I am glad to share this work, maybe it can save someone's day.
 
-NOTE: the code is not adapted to be an official Dart library yet, I may do this in the future. Any PULL REQUESTS are welcome.
+NOTE: the code is not adapted to be an official Dart library yet, I may do this in the future.
+
+**Pull Requests are welcome.**
+
+### Credits further readings
 
 Many thanks to [Ivan Djuricic](https://github.com/ivandjuricic), because this code is inspired by a [signing code](https://gist.github.com/ivandjuricic/eac871ad2a68fa7775baf2497252fef3) written by him in Python.
 
