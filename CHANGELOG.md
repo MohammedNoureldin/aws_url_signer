@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.1.0] - 2021.04.20
 
-* TODO: Describe initial release.
+* Initial release that includes the basic functionality of signing AWS requests (particularly WebSocket initial request) with the given AWS credentials.
