@@ -1,8 +1,7 @@
 name: aws_url_signer
 description: This Dart library signs Amazon Web Services (AWS) URLs with the given credentials in contrast to signing the header entries. This is particularly helpful to connect to Amazon WebSocket API Gateway secured with IAM authorizer.
 version: 0.1.0
-author: Mohammed Noureldin
-homepage:
+homepage: https://github.com/MohammedNoureldin/aws_url_signer
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
