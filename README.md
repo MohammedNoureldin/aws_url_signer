@@ -12,6 +12,6 @@ Now, after I got this working, I am glad to share this work, maybe it can save s
 
 Many thanks to [Ivan Djuricic](https://github.com/ivandjuricic), because this code is inspired by a [signing code](https://gist.github.com/ivandjuricic/eac871ad2a68fa7775baf2497252fef3) written by him in Python.
 
-Skimming the [this code file](https://github.com/agilord/aws_client/blob/master/aws_client/lib/src/request.dart) also helped me to replace some critical python parts with their Dart equivalents.
+Skimming [this code file](https://github.com/agilord/aws_client/blob/master/aws_client/lib/src/request.dart) also helped me to replace some critical python parts with their Dart equivalents.
 
-A look on the official documentation [Signing AWS Requests V4](https://docs.aws.amazon.com/general/latest/gr/sigv4_signing.html) from Amazon will make the code makes much more sense.
+A look on the official documentation [Signing AWS Requests V4](https://docs.aws.amazon.com/general/latest/gr/sigv4_signing.html) from Amazon will help to understand the logic behind the code.
